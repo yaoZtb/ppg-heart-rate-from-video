@@ -5,7 +5,7 @@ Estimating heart rate from a phone-camera video of a fingertip (photoplethysmogr
 ## Contents
 - `heart_rate_from_video.ipynb` – analysis notebook
   - Part 1: Extracting the PPG signal from the video
-  - Part 2: Heart rate from the video signal: method validated on a synthetic 72 bpm test signal (FFT spectrum, heart-rate band search 42–210 bpm)
+  - Part 2: Heart rate from the video signal: method validated on a 
 - `data/video_of_finger.MOV` – input video (~112 MB, stored with Git LFS)
 
 ## Getting the video
@@ -16,5 +16,4 @@ git lfs install
 git clone https://github.com/yaoZtb/ppg-heart-rate-from-video.git
 ```
 
-## Requirements
-Python 3, NumPy, Matplotlib, Jupyter.
+
