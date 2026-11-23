@@ -11,9 +11,7 @@ Estimating heart rate from a phone-camera video of a fingertip (photoplethysmogr
 ## Getting the video
 The video is tracked with [Git LFS](https://git-lfs.com). Install it before cloning:
 
-```bash
-git lfs install
-git clone https://github.com/yaoZtb/ppg-heart-rate-from-video.git
-```
+
+
 
 
